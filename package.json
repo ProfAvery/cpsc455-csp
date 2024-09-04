@@ -1,0 +1,25 @@
+{
+  "name": "cpsc455-csp",
+  "version": "1.0.0",
+  "description": "CPSC 455 - Fall 2024",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ProfAvery/cpsc455-csp.git"
+  },
+  "author": "Kenytt Avery",
+  "license": "UNLICENSED",
+  "bugs": {
+    "url": "https://github.com/ProfAvery/cpsc455-csp/issues"
+  },
+  "homepage": "https://github.com/ProfAvery/cpsc455-csp#readme",
+  "devDependencies": {
+    "nodemon": "^3.1.4"
+  },
+  "dependencies": {
+    "express": "^4.19.2"
+  }
+}
